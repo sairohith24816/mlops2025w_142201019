@@ -1,0 +1,14 @@
+9a10,21
+> 
+> echo "Enter a number:"
+> read num
+> 
+> fac=1
+> 
+> for ((i=2; i<=num; i++))
+> do
+>   fac=$((fact * i))
+> done
+> 
+> echo "Factorial of $num is $fac"
+\ No newline at end of file
