@@ -1,0 +1,17 @@
+[project]
+name = "titanic-survival"
+version = "0.1.0"
+description = "People who survived in titanic"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.1.1",
+    "numpy>=2.3.2",
+    "pandas>=2.3.2",
+    "scikit-learn>=1.7.1",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.30.1",
+]
