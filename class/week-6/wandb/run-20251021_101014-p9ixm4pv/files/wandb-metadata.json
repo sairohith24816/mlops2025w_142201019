@@ -1,0 +1,26 @@
+{
+  "os": "Windows-10-10.0.26200-SP0",
+  "python": "CPython 3.11.0",
+  "startedAt": "2025-10-21T04:40:14.913642Z",
+  "program": "<python with no main file>",
+  "git": {
+    "remote": "https://github.com/sairohith24816/mlops2025w_142201019.git",
+    "commit": "f9a16ca3b18fcff9493a16ca880b4718898aa6d6"
+  },
+  "email": "142402004@smail.iitpkd.ac.in",
+  "root": "c:\\Users\\sairo\\Desktop\\MLOps\\mlops2025w_142201019\\class\\week-6",
+  "host": "samsung",
+  "executable": "c:\\Users\\sairo\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "1006321528832",
+      "used": "479929278464"
+    }
+  },
+  "memory": {
+    "total": "16837525504"
+  },
+  "writerId": "vxzbudrcp0etk2nau7vmxxthxwju3uw5"
+}
