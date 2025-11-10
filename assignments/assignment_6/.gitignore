@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model Checkpoints
+*.pth
+
+# Dataset
+tiny-imagenet-200/
+
+# Weights & Biases
+wandb/
+
+# Hugging Face
+hf_space/
+downloaded_artifacts/
+
+# Secrets
+.env
+
+# Generated Reports
+drift_simple_report.md
+drift_simple_viz.png
+
+# Database
+*.db-journal
